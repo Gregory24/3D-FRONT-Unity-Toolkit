@@ -18,7 +18,7 @@ Our code is tested on Win10, python=3.8, Unity3D=2021.2.16f1c1.
   - Unity3D 2021.2.16f1c1
   - Runtime OBJ Importer
 
-# Comming Soom:
+# Comming Soom
 - Preprocess jsons files.
 - Load rooms in Unity3D engine.
 

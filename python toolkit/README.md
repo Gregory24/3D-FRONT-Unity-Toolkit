@@ -20,5 +20,3 @@
     - ThreedFrontUnityToolbox:
       - dataset_statistics(): output all room types and all object categories.
       - preprocess_data(): output the simplified json and floor obj files.
-- Unity3D scripts and configuration:
-  - 
