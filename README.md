@@ -15,6 +15,14 @@ Parse the raw 3D-FRONT jsons into room-based simplified jsons.The Unity3D engine
 - Unity3D Engine:
   - We test our code in the Unity3D 2021.2.16f1c1
 
-<!-- # Functionalities: -->
+# Organization:
+- python toolkit:
+  - 
+- Unity3D scripts and configuration:
+  - 
+
+
+# Reference
+- The methods in "scene_parser.py" and "utils.py" are basically from the repo "3D-FRONT-FUTURE/3D-FRONT-ToolBox".
 
 
